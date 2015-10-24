@@ -2,11 +2,12 @@
 <metadata>
   <groupId>jp.takuji31.dagger2android</groupId>
   <artifactId>dagger2android</artifactId>
+  <version>0.2.0-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>0.0.1-SNAPSHOT</version>
-      <version>0.2.0-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <timestamp>20151024.044558</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
     <lastUpdated>20151024044558</lastUpdated>
   </versioning>
 </metadata>
